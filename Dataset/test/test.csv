@@ -1,0 +1,40 @@
+phylum,class,genus,species,form,sample,img_path
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium vivax,trophozoites,blood,./test/Plasmodium vivax/Pv_troph_thinB_0_138.jpg
+Nematoda,Chromadorea,Enterobius,Enterobius vermicularis,egg,intestine,./test/Enterobius vermicularis/Evermicularis_egg_UVb_0_228.jpg
+Apicomplexa,Conoidasida,Cyclospora,Cyclospora cayetanensis,oocysts,feces,./test/Cyclospora cayetanensis/Cyclospora_DIC_Mike1_0_181.jpg
+Sarcomastigophora,Zooflagellate,Giardia,Giardia duodenalis,cyst,wet mount,./test/Giardia duodenalis/Giardia_cyst_wtmt6_0_291.jpg
+Apicomplexa,Conoidasida,Cyclospora,Cyclospora cayetanensis,oocysts,feces,./test/Cyclospora cayetanensis/Cyclospora_UV_Mike1_0_167.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium malariae,trophozoites,blood,./test/Plasmodium malariae/Pm_basketC_0_89.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium ovale,gametocyte,blood,./test/Plasmodium ovale/Po_gametocyte_thinE_0_96.jpg
+Platyhelminthes,Cestoda,Hymenolepis,Hymenolepis spp,egg,feces,./test/Hymenolepis spp/H_nana_egg_wtmt2_0_279.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium knowlesi,trophozoites,blood,./test/Plasmodium knowlesi/Pk_rings_thin_NY6_0_61.jpg
+Platyhelminthes,Cestoda,Dibothriocephalus,Dibothriocephalus latus,egg,feces,./test/Dibothriocephalus latus/Dlatum_eggs_FL_0_252.jpg
+Apicomplexa,Conoidasida,Cyclospora,Cyclospora cayetanensis,oocysts,feces,./test/Cyclospora cayetanensis/Cyclospora_UV_Mike4_0_166.jpg
+Sarcomastigophora,Zooflagellate,Giardia,Giardia duodenalis,trophozoites,wet mount,./test/Giardia duodenalis/Giardia_troph_tric3_0_311.jpg
+Apicomplexa,Conoidasida,Cyclospora,Cyclospora cayetanensis,oocysts,feces,./test/Cyclospora cayetanensis/CryptoCyclo_SAF_Henry1_0_178.jpg
+Nematoda,Chromadorea,Ascaris,Ascaris lumbricoides,egg,feces,./test/Ascaris lumbricoides/Ascaris_egg_fert_embryo_0_203.jpg
+Nematoda,Enoplea,Trichuris,Trichuris Trichuria,adult,intestine,./test/Trichuris Trichuria/Trichuris_trichiura_egg_HE_OR1_0_231.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium vivax,trophozoites,blood,./test/Plasmodium vivax/Pv_rings_thinC_0_131.jpg
+Platyhelminthes,Cestoda,Hymenolepis,Hymenolepis spp,egg,feces,./test/Hymenolepis spp/H_nana_HB2010_0_280.jpg
+Sarcomastigophora,Zooflagellate,Giardia,Giardia duodenalis,cyst,wet mount,./test/Giardia duodenalis/Giardia_cyst_tric3_0_302.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium vivax,schizont,blood,./test/Plasmodium vivax/Pv_schizont_thinB_0_125.jpg
+Sarcomastigophora,Zooflagellate,Giardia,Giardia duodenalis,trophozoites,wet mount,./test/Giardia duodenalis/Giardia_troph_wtmt_0_307.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium malariae,trophozoites,blood,./test/Plasmodium malariae/Pm_troph_thickB_0_81.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium falciparum,trophozoites,blood,./test/Plasmodium falciparum/Pf_MaurersE_0_47.jpg
+Apicomplexa,Conoidasida,Sarcocystis,Sarcocystis sp.,oocysts,wet mount,./test/Sarcocystis sp./Sarcocystis_wtmt_400x3_0_190.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium falciparum,gametocyte,blood,./test/Plasmodium falciparum/Pf_gametocyte_thickC_0_30.jpg
+Apicomplexa,Conoidasida,Cryptosporidium,Cryptosporidium sp.,oocysts,feces,./test/Cryptosporidium sp./Crypto_acidfast2_100x_annot_0_150.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium falciparum,gametocyte,blood,./test/Plasmodium falciparum/Pf_gametocyte_thinF_0_27.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium malariae,trophozoites,blood,./test/Plasmodium malariae/Pm_ring_thickA_0_76.jpg
+Amoebozoa,Tubulinea,Entamoeba,Entamoeba histolytica,cyst,wet mount,./test/Entamoeba histolytica/E_histodispar_2x2_B_0_1.jpg
+Platyhelminthes,Cestoda,Hymenolepis,Hymenolepis spp,egg,feces,./test/Hymenolepis spp/H_diminuta_eggs_BAM3_0_271.jpg
+Amoebozoa,Tubulinea,Entamoeba,Entamoeba histolytica,cyst,wet mount,./test/Entamoeba histolytica/E_histodispar_2x2_A_0_0.jpg
+Nematoda,Chromadorea,Ascaris,Ascaris lumbricoides,egg,feces,./test/Ascaris lumbricoides/Ascaris_egg_fert4_decort_400x_0_212.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium ovale,gametocyte,blood,./test/Plasmodium ovale/Po_gametocyte_thinA_0_92.jpg
+Amoebozoa,Tubulinea,Entamoeba,Entamoeba histolytica,trophozoites,wet mount,./test/Entamoeba histolytica/Ehisto_troph_tric_0_16.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium falciparum,trophozoites,blood,./test/Plasmodium falciparum/Pf_MaurersC_0_50.jpg
+Nematoda,Chromadorea,Enterobius,Enterobius vermicularis,adult,intestine,./test/Enterobius vermicularis/Ent_f_0_216.jpg
+Nematoda,Enoplea,Trichuris,Trichuris Trichuria,adult,intestine,./test/Trichuris Trichuria/Trichuris_trichiura_adult_Duke_0_236.jpg
+Apicomplexa,Conoidasida,Cryptosporidium,Cryptosporidium sp.,oocysts,feces,./test/Cryptosporidium sp./Crypto_acidfast_web_0_147.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium ovale,trophozoites,blood,./test/Plasmodium ovale/Po_troph_thickA_0_103.jpg
+Apicomplexa,Aconoidasida,Plasmodium,Plasmodium vivax,schizont,blood,./test/Plasmodium vivax/Pv_schizont_thinA_0_124.jpg
