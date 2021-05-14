@@ -3,9 +3,9 @@ The folder contains the scraped parasitic images from [DPDx A-Z](https://www.cdc
 
 ## Files
 - Folders:
-  - `Train`: Contains 1181 images and a CSV file for training network
-  - `Val`: Contains 196 images and a CSV file for validation/fine-tuning
-  - `Test`: Contains 201 images and a CSV file for evaluation
+  - `train`: Contains 1181 images and a CSV file for training network
+  - `val`: Contains 196 images and a CSV file for validation/fine-tuning
+  - `test`: Contains 201 images and a CSV file for evaluation
 - 7zips:
   - `Parasitic.7z`: Contains initial 511 images and a CSV file
   - `Dataset.7z`: Contains 563 images(52 manually picked) and a CSV file
