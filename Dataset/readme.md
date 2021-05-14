@@ -1,7 +1,7 @@
 # Dataset
 The folder contains the scraped parasitic images from [DPDx A-Z](https://www.cdc.gov/dpdx/az.html) webpage of `cdc.gov` and some manually picked images.
 
-For dataset distribution refer to [Data Processing folder](./Data Processing/readme.md).
+For dataset distribution refer to [Data Processing folder](Data Processing/readme.md).
 ## Files
 - Folders:
   - `train`: Contains 1140 images and a CSV file for training network
